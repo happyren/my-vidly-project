@@ -4,6 +4,14 @@ This is my Node.js - Express RESTful API _vidly project_, it is a proof of my no
 
 Unit testing and Integration testing are provided, and I will continue increase the test coverage.
 
+```shell
+$ export vidly_jwtPrivateKey="sampleSecretKey"
+```
+or
+```shell
+C:\> setx vidly_jwtPrivateKey "sampleSecretKey"
+```
+
 ## Current endpoints
 
 By running this project, you would have following endpoints available:
